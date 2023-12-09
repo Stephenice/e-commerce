@@ -9,29 +9,37 @@ The web app includes features such as a user-friendly interface for browsing, se
 
 ## Features
 
-- ##### Next.js 14
-Utilizing the latest version of Next.js for optimal performance, server-side rendering, and lightning-fast page loads.
+- #### Next.js 14
 
-- ##### TypeScript
-Leverages TypeScript for improved code quality, better scalability, and enhanced developer productivity.
+    Utilizing the latest version of Next.js for optimal performance, server-side rendering, and lightning-fast page loads.
 
-- ##### SASS
-Utilizing SASS (Syntactically Awesome Stylesheets) for a more organized and maintainable approach to styling.
+- #### TypeScript
 
-- ##### Stripe
-Leverages TypeScript for improved code quality, better scalability, and enhanced developer productivity.
+    Leverages TypeScript for improved code quality, better scalability, and enhanced developer productivity.
 
-- ##### Payload CMS
-Harnessing the power of Payload CMS for dynamic content management, allowing easy updates and modifications.
+- #### SASS
 
-- ##### User Authentication
- Secure user authentication and authorization functionalities to safeguard user data and access.
+    Utilizing SASS (Syntactically Awesome Stylesheets) for a more organized and maintainable approach to styling.
 
-- ##### Responsive Design
-Ensuring the application is responsive across various devices and screen sizes for an optimal user experience.
+- #### Stripe
 
-- ##### Admin Dashboard
-A comprehensive and intuitive dashboard for managing products, orders, and content effortlessly.
+    Leverages TypeScript for improved code quality, better scalability, and enhanced developer productivity.
+
+- #### Payload CMS
+
+    Harnessing the power of Payload CMS for dynamic content management, allowing easy updates and modifications.
+
+- #### User Authentication
+
+    Secure user authentication and authorization functionalities to safeguard user data and access.
+
+- #### Responsive Design
+
+    Ensuring the application is responsive across various devices and screen sizes for an optimal user experience.
+
+- #### Admin Dashboard
+
+    A comprehensive and intuitive dashboard for managing products, orders, and content effortlessly.
 
 
 ## Setup Instructions
