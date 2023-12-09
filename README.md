@@ -11,26 +11,26 @@ E-Commerce Application is a robust online platform designed to facilitate servic
 
 ## Setup Instructions
 
-1. Clone the repository
+#### 1. Clone the repository
 
     git clone https://github.com/Stephenice/e-commerce.git
 
-2. Install Dependencies
+#### 2. Install Dependencies
 
      cd e-commerce-app
      npm install
 
-3. Set up Stripe
+#### 3. Set up Stripe
 
 Create a Stripe account at [stripe.com](https://stripe.com/).
 Obtain API keys from Stripe and configure them in the application.
 
-4. Set up Payload CMS
+#### 4. Set up Payload CMS
 
 Create a Payload CMS account or set up a local instance.
 Configure Payload CMS settings in the application to connect to your instance.
 
-5. Environment Variables
+#### 5. Environment Variables
 
 Create a .env file at the root of the project and add necessary environment variables:
 
@@ -39,11 +39,11 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 PAYLOAD_API_URL=your_payload_api_url
 PAYLOAD_PUBLIC_KEY=your_payload_public_key
 
-6. Start the Application
+#### 6. Start the Application
 
     npm run dev
 
-7. Access the App
+#### 7. Access the App
 
 Open your browser and visit http://localhost:3000.
 -----------------------------
