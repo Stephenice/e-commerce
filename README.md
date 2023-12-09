@@ -2,7 +2,9 @@
 
 This repository contains an E-Commerce Application built on Next.js 14, TypeScript, Sass, Stripe for payment processing, and Payload CMS for content management.
 
-E-Commerce Application is a robust online platform designed to facilitate services over the internet. It provides users with a seamless shopping experience, offering a wide range of products categorized for easy navigation. The application includes features such as a user-friendly interface for browsing, searching, and filtering items, a secure payment gateway for transactions, account management for users to track orders and manage their profiles, and often an admin dashboard for store owners to manage inventory, orders, and content.
+E-Commerce App is a robust online platform designed to facilitate services over the internet. It provides users with a seamless shopping experience, offering a wide range of products categorized for easy navigation. 
+
+The web app includes features such as a user-friendly interface for browsing, searching, and filtering items, a secure payment gateway for transactions, account management for users to track orders and manage their profiles, and often an admin dashboard for store owners to manage inventory, orders, and content.
 
 ## Technologies Used
 
@@ -51,6 +53,13 @@ PAYLOAD_PUBLIC_KEY=your_payload_public_key
 #### 7. Access the App
 
 Open your browser and visit http://localhost:3000.
+
+## Live Demo
+
+Url: https://e-commerce-pismap.payloadcms.app/
+
+Username: test@test.com
+Password: Usertest
 -----------------------------
 
 
