@@ -34,10 +34,15 @@ Configure Payload CMS settings in the application to connect to your instance.
 
 Create a .env file at the root of the project and add necessary environment variables:
 
+```bash
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
+
 STRIPE_SECRET_KEY=your_stripe_secret_key
+
 PAYLOAD_API_URL=your_payload_api_url
+
 PAYLOAD_PUBLIC_KEY=your_payload_public_key
+```
 
 #### 6. Start the Application
 
