@@ -6,10 +6,22 @@ E-Commerce App is a robust online platform designed to facilitate services over 
 
 The web app includes features such as a user-friendly interface for browsing, searching, and filtering items, a secure payment gateway for transactions, account management for users to track orders and manage their profiles, and often an admin dashboard for store owners to manage inventory, orders, and content.
 
-## Technologies Used
 
 ## Features
 
+- ###### Next.js 14
+
+- ###### TypeScript
+
+- ###### SASS
+
+- ###### Payload CMS
+
+- ###### User Authentication
+
+- ###### Responsive Design:
+
+- ###### Admin Dashboard
 
 ## Setup Instructions
 
@@ -56,9 +68,10 @@ Open your browser and visit http://localhost:3000.
 
 ## Live Demo
 
-Url: https://e-commerce-pismap.payloadcms.app/
+`Url:`  https://e-commerce-pismap.payloadcms.app/
 
 `Username:` test@test.com
+
 `Password:` Usertest
 
 
