@@ -58,8 +58,10 @@ Open your browser and visit http://localhost:3000.
 
 Url: https://e-commerce-pismap.payloadcms.app/
 
-Username: test@test.com
-Password: Usertest
+`Username:` test@test.com
+`Password:` Usertest
+
+
 -----------------------------
 
 
